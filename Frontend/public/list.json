@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "name": "Ikigai",
+        "pdf": "https://libtoon.com/wp-content/uploads/Ikigai-_Libtoon.com_.pdf",
+        "category": "Self Help",
+        "image": "https://corporategiftsbyconfetti.in/cdn/shop/files/IKIGAIBOOK.jpg?v=1704699632&width=2048"
+    },
+    {
+        "id":2,
+        "name": "Rich Dad Poor Dad",
+        "pdf": "https://ia804501.us.archive.org/4/items/rich-dad-poor-dad_202106/Rich%20Dad%20Poor%20Dad.pdf",
+        "category": "Self Help",
+        "image": "https://www.adorebooks.in/wp-content/uploads/2022/02/Untitled-design-66.jpg"
+    },
+    {
+        "id":3,
+        "name": "Atomic Habits",
+        "pdf": "https://dn790007.ca.archive.org/0/items/atomic-habits-pdfdrive/Atomic%20habits%20%28%20PDFDrive%20%29.pdf",
+        "category": "Self Help",
+        "image": "https://bookdepositoryus.com/cdn/shop/products/9780735211292_p0_v20_s600x595.jpg?v=1692670131"
+    },
+    {
+        "id":4,
+        "name": "The Power Of Now",
+        "pdf": "https://dn790003.ca.archive.org/0/items/ThePowerOfNowEckhartTolle_201806/The%20Power%20Of%20Now%20-%20Eckhart%20Tolle.pdf",
+        "category": "Self Help",
+        "image": "https://eckharttolle.com/wp-content/uploads/2018/01/10-1-57731-480-8__46425_zoom-300x300.png"
+    },
+    {
+        "id":5,
+        "name": "The Alchemist",
+        "pdf": "https://ia801006.us.archive.org/13/items/OceanofPDF.comTheAlchemist/_OceanofPDF.com_The_Alchemist.pdf",
+        "category": "Fiction",
+        "image": "https://bookbins.in/wp-content/uploads/2024/04/The-Alchemist-Paulo-Coelho-Buy-Online-Bookbins-1.png"
+    },
+    {
+        "id":6,
+        "name": "Harry Potter",
+        "pdf": "https://archive.org/details/harrypotterphilo0000rowl_j1k7",
+        "category": "Fiction",
+        "image": "https://the-wizards-shop.com/3149-thickbox_default/harry-potter-book-and-the-chamber-of-secrets-illustrated-by-minalima-french.jpg"
+    },
+    {
+        "id":7,
+        "name": "1984",
+        "pdf": "https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf",
+        "category": "Fiction",
+        "image": "https://images.blinkist.io/images/books/63c6c76dca3d9100087f40eb/1_1/470.jpg"
+    },
+    {
+        "id":8,
+        "name": "The Hobbit",
+        "pdf": "https://rsd2-alert-durden-reading-room.weebly.com/uploads/6/7/1/6/6716949/the_hobbit_tolkien.pdf",
+        "category": "Fiction",
+        "image": "https://www.bigw.com.au/medias/sys_master/images/images/h72/haf/44661897330718.jpg"
+    },
+    {
+        "id":9,
+        "name": "Gone Girl",
+        "pdf": "https://icrrd.com/public/media/15-05-2021-082725Gone-Girl-Gillian-Flynn.pdf",
+        "category": "Mystery",
+        "image": "https://en-chatelaine.mblycdn.com/ench/resized/2012/11/w767/Gone-Girl-cover2.jpg"
+    },
+    {
+        "id":10,
+        "name": "In the Woods",
+        "pdf": "https://ak1.ostkcdn.com/In_Woods_excerpt.pdf",
+        "category": "Mystery",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbPOXYONmr9p4FnV5Fd5cymb4xKKlRTsbfQ&s"
+    },
+    {
+        "id":11,
+        "name": "Think Straight",
+        "pdf": "https://crpf.gov.in/writereaddata/images/pdf/Think_Straight.pdf",
+        "category": "Self Help",
+        "image": "https://mir.az/uploads/posts/2023-10/Mir.az-image19362-500x500.webp"
+    },
+    {
+        "id":12,
+        "name": "It Ends with Us",
+        "pdf": "https://icrrd.com/public/media/15-05-2021-052358It-Ends-with-Us.pdf",
+        "category": "Romance",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_fcbae73c-eefa-4d8a-a162-862a9869690a?wid=488&hei=488&fmt=pjpeg"
+    }
+]
